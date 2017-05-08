@@ -19,3 +19,12 @@ each of which can solved by one or more computers.
 =====================================================================================
 
 
+![alt text](https://github.com/SonamPhuntsog/distributedComputing/blob/master/img/MainGUI.png)
+
+![alt text](https://github.com/SonamPhuntsog/distributedComputing/blob/master/img/Success.png)
+
+![alt text](https://github.com/SonamPhuntsog/distributedComputing/blob/master/img/Unsubscribe.png)
+
+![alt text](https://github.com/SonamPhuntsog/distributedComputing/blob/master/img/VolunteerGUI.png)
+
+
